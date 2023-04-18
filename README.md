@@ -1,5 +1,5 @@
 # An Imitation from Observation Approach to Transfer Learning with Dynamics Mismatch
-<img src="images/image36.gif" align="right"/>
+<img src="images/image36.gif" align="right" width="45%"/>
 
 This repository contains the code for the paper [An Imitation from Observation Approach to Transfer Learning with Dynamics Mismatch](https://proceedings.neurips.cc//paper_files/paper/2020/hash/28f248e9279ac845995c4e9f8af35c2b-Abstract.html), published in Neural Information Processing Systems (NeurIPS) 2020.
 
