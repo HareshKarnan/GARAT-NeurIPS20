@@ -3,8 +3,6 @@
 
 This repository contains the code for the paper [An Imitation from Observation Approach to Transfer Learning with Dynamics Mismatch](https://proceedings.neurips.cc//paper_files/paper/2020/hash/28f248e9279ac845995c4e9f8af35c2b-Abstract.html), published in Neural Information Processing Systems (NeurIPS) 2020.
 
-This repository contains the code base to run experiments specified in the paper.
-
 ### Pre-Requisites
 
 We use `Python3.6`.
